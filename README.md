@@ -1,7 +1,7 @@
 
 
 
-# 8x8 LED Matrix Library
+# 8x8 LED Matrix Arduino Library
 
 NOTE: This library is driving the 8x8 LED matrix itself. This library is not for the MAX7219 chip.
 
